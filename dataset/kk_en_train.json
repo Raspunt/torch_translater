@@ -1,0 +1,1020 @@
+{
+    "features": [
+        {
+            "feature_idx": 0,
+            "name": "translation",
+            "type": {
+                "languages": [
+                    "kk",
+                    "en"
+                ],
+                "_type": "Translation"
+            }
+        }
+    ],
+    "rows": [
+        {
+            "row_idx": 0,
+            "row": {
+                "translation": {
+                    "en": "Trumpian Uncertainty",
+                    "kk": "Трамптық белгісіздік"
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 1,
+            "row": {
+                "translation": {
+                    "en": "NEW YORK – Every January, I try to craft a forecast for the coming year.",
+                    "kk": "НЬЮ-ЙОРК – Әрбір қаңтар айында, мен алдағы жылға арналған болжамды дайындай бастаймын."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 2,
+            "row": {
+                "translation": {
+                    "en": "Economic forecasting is notoriously difficult; but, notwithstanding the truth expressed in Harry Truman’s request for a one-armed economist (who wouldn’t be able to say “on the other hand”), my record has been credible.",
+                    "kk": "Экономикалық болжау дайындау оңай іс емес; алайда, Гарри Трумэннің бір қолды экономисттердің болуына («екінші жағынан» деп айта алмайтын) өтінішінде шындықтың барына қарамастан, менің болжамдарым дұрыс болды деп айта аламын."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 3,
+            "row": {
+                "translation": {
+                    "en": "In recent years, I correctly foresaw that, in the absence of stronger fiscal stimulus (which was not forthcoming in either Europe or the United States), recovery from the Great Recession of 2008 would be slow.",
+                    "kk": "Соңғы жылдары, мен күшті фискалдық ынталандыру болмаған жағдайда, (Еуропада немесе Америка Құрама Штаттарында жақын арада болжанбаған) 2008 жылдың Ұлы құлдырауынан сауығу баяу болады деп дұрыс таптым."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 4,
+            "row": {
+                "translation": {
+                    "en": "In making these forecasts, I have relied more on analysis of underlying economic forces than on complex econometric models.",
+                    "kk": "Осы болжамдарды жасаған кезде мен кешенді эконометрикалық модельдерге қарағанда базалық экономикалық күштерді талдауға толығырақ сүйенген болатынмын."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 5,
+            "row": {
+                "translation": {
+                    "en": "For example, at the beginning of 2016, it seemed clear that the deficiencies of global aggregate demand that have been manifest for the last several years were unlikely to change dramatically.",
+                    "kk": "Мысалы, 2016 жылдың басында, соңғы бірнеше жыл бойы орын алған жаһандық жиынтық сұраныстың тапшылығының күрт өзгеруі екіталай екені анық көрінді."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 6,
+            "row": {
+                "translation": {
+                    "en": "Thus, I thought that forecasters of a stronger recovery were looking at the world through rose-tinted glasses.",
+                    "kk": "Сондықтан, мен әсерлі қалыпқа келуді болжағандар туралы олар әлемді тым жақсы жағынан көріп, кемшіліктерді ескермей жатыр деп ойладым."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 7,
+            "row": {
+                "translation": {
+                    "en": "Economic developments unfolded much as I anticipated.",
+                    "kk": "Мен күткендей, көптеген экономикалық даму жағдайлары орын алды."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 8,
+            "row": {
+                "translation": {
+                    "en": "Not so the political events of 2016.",
+                    "kk": "Бірақ, 2016 жылдың саяси оқиғалары олай жайлы болмады."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 9,
+            "row": {
+                "translation": {
+                    "en": "I had been writing for years that unless growing inequality – especially in the US, but also in many countries throughout the world – was addressed, there would be political consequences.",
+                    "kk": "Мен, өсіп келе жатқан теңсіздік мәселесі, әсіресе АҚШ-та, сондай-ақ бүкіл әлем бойынша көптеген елдерде, шешілмесе, онда оның саяси салдары болатыны туралы көптеген жылдар бойы жазып келдім."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 10,
+            "row": {
+                "translation": {
+                    "en": "But inequality continued to worsen – with striking data showing that average life expectancy in the US was on the decline.",
+                    "kk": "Бірақ теңсіздікке байланысты жағдай нашарлай бастады, тіпті АҚШ-та орташа өмір сүру ұзақтығы қысқаруда деген шошынышты деректер де белгілі болды."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 11,
+            "row": {
+                "translation": {
+                    "en": "These results were foreshadowed by a study last year, by Anne Case and Angus Deaton, which showed that life expectancy was on the decline for large segments of the population – including America’s so-called angry men of the Rust Belt.",
+                    "kk": "Энн Кейс  және Ангус Дитонның өткен жылғы зерттеуінде айтылғандай, тұрғын халықтың үлкен сегменттерінде өмір сүру ұзақтығы қысқаруда, онын ішінде Американың Тот белдеуінің ашулы ерлері де бар."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 12,
+            "row": {
+                "translation": {
+                    "en": "But, with the incomes of the bottom 90% having stagnated for close to a third of a century (and declining for a significant proportion), the health data simply confirmed that things were not going well for very large swaths of the country.",
+                    "kk": "Бірақ, табысы төмендердің 90%-ы ғасырдың үштен бірі бойы тоқырауда болған (және елеулі бөлігі төмендеп жатқан) жағдайда, денсаулық сақтау деректеріне жүгінсек, еліміздің өте үлкен бөлігінің жағдайы нашар."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 13,
+            "row": {
+                "translation": {
+                    "en": "And while America might be at the extreme of this trend, things were little better elsewhere.",
+                    "kk": "Америка бұл үрдістің басында болғанымен, басқа жерлерде жағдай бұдан аса жақсы емес."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 14,
+            "row": {
+                "translation": {
+                    "en": "But, if it seemed clear that there would be political consequences, their form and timing were far less obvious.",
+                    "kk": "Саяси салдардың болуы анық көрінгенімен, олардың нысаны мен мерзімдері әлдеқайда айқын болмады."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 15,
+            "row": {
+                "translation": {
+                    "en": "Why did the backlash in the US come just when the economy seemed to be on the mend, rather than earlier?",
+                    "kk": "Бұрын емес, ал дәл экономика түзетіліп келе жатқанда, АҚШ-та неге саяси қарсылық пайда болды?"
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 16,
+            "row": {
+                "translation": {
+                    "en": "And why did it manifest itself in a lurch to the right?",
+                    "kk": "Және неге ол оңға қарай бет алды?"
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 17,
+            "row": {
+                "translation": {
+                    "en": "After all, it was the Republicans who had blocked assistance to those losing their jobs as a result of the globalization they pushed assiduously.",
+                    "kk": "Негізі, өздері қатты жақтаған  жаһандану нәтижесінде жұмыс орындарын жоғалтқан адамдарға ұсынылатын көмекті бұғаттаған республикашылдар болды."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 18,
+            "row": {
+                "translation": {
+                    "en": "It was the Republicans who, in 26 states, refused to allow the expansion of Medicaid, thereby denying health insurance to those at the bottom.",
+                    "kk": "26 штатта, медициналық көмекті кеңейтуге республиканшылдар қарсы болып, осылайша жағдайлары төмен адамдарға медициналық сақтандыру берілмеді."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 19,
+            "row": {
+                "translation": {
+                    "en": "And why was the victor somebody who made his living from taking advantage of others, openly admitted not paying his fair share of taxes, and made tax avoidance a point of pride?",
+                    "kk": "Және басқаларды пайдалана отырып өмір сүрген, ашық түрде салықты төлемегенін мойындап және салықтан жалтаруды мақтаныш қылған біреу қалайша жеңіске жетті?"
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 20,
+            "row": {
+                "translation": {
+                    "en": "Donald Trump grasped the spirit of the time: things weren’t going well, and many voters wanted change.",
+                    "kk": "Дональд Трамп заман үрдісін дәл тапты: жағдай жақсы болмады, және көптеген сайлаушылар өзгерісті қалады."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 21,
+            "row": {
+                "translation": {
+                    "en": "Now they will get it: there will be no business as usual.",
+                    "kk": "Енді олардың тілегі орындалады- ешқандай іс әдеттегідей болмайды."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 22,
+            "row": {
+                "translation": {
+                    "en": "But seldom has there been more uncertainty.",
+                    "kk": "Бірақ мұндай белгісіздік әлі болмаған."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 23,
+            "row": {
+                "translation": {
+                    "en": "Which policies Trump will pursue remains unknown, to say nothing of which will succeed or what the consequences will be.",
+                    "kk": "Трамп қандай саясат жүргізетіні, олардың қайсысы табысқа жетеді немесе  олардың салдары қандай болады - мұның бәрі белгісіз болып тұр."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 24,
+            "row": {
+                "translation": {
+                    "en": "Trump seems hell-bent on having a trade war.",
+                    "kk": "Трамп қалай болса да сауда соғысын жасайтындай."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 25,
+            "row": {
+                "translation": {
+                    "en": "But how will China and Mexico respond?",
+                    "kk": "Бірақ Қытай мен Мексика қандай жауап қайтарады?"
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 26,
+            "row": {
+                "translation": {
+                    "en": "Trump may well understand that what he proposes will violate World Trade Organization rules, but he may also know that it will take a long time for the WTO to rule against him.",
+                    "kk": "Трамп өзінің ұсыныстары Дүниежүзілік сауда ұйымы ережесін бұзатынын түсінуі-ақ мүмкін, бірақ ол сондай-ақ, ДСҰ оған қарсы шығуы үшін ұзақ уақыт қажет екенін білетін шығар."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 27,
+            "row": {
+                "translation": {
+                    "en": "And by then, America’s trade account may have been rebalanced.",
+                    "kk": "Ал ол уақытқа дейін, Американың сауда шоты қайта балансқа келуі мүмкін."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 28,
+            "row": {
+                "translation": {
+                    "en": "But two can play that game: China can take similar actions, though its response is likely to be more subtle.",
+                    "kk": "Бірақ бұл ойынды екі жақ та ойнай алады: Қытай, ұқсас әрекеттерді жасай алады, бірақ оның жауабы шеберлеу болуы мүмкін."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 29,
+            "row": {
+                "translation": {
+                    "en": "If a trade war were to break out, what would happen?",
+                    "kk": "Бірақ сауда соғысы орын алса, қандай болар еді?"
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 30,
+            "row": {
+                "translation": {
+                    "en": "Trump may have reason to think he could win; after all, China is more dependent on exports to the US than the US is on exports to China, which gives the US an advantage.",
+                    "kk": "Трамптың жеңе аламын деп ойлауында негіз болуы мүмкін; өйткені, Қытай АҚШ-қа экспорт бойынша тәуелдірек болып табылады, бұл әрине АҚШ-қа артықшылық береді."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 31,
+            "row": {
+                "translation": {
+                    "en": "But a trade war is not a zero-sum game.",
+                    "kk": "Бірақ сауда соғысы бір жақ қана жеңіп алатын ойын емес."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 32,
+            "row": {
+                "translation": {
+                    "en": "The US stands to lose as well.",
+                    "kk": "АҚШ та сондай-ақ жеңіледі."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 33,
+            "row": {
+                "translation": {
+                    "en": "China may be more effective in targeting its retaliation to cause acute political pain.",
+                    "kk": "Қытай өткір саяси ауырсынуды тудыра отырып, кегін ала алады."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 34,
+            "row": {
+                "translation": {
+                    "en": "And the Chinese may be in a better position to respond to US attempts to inflict pain on them than the US is to respond to the pain that China might inflict on Americans.",
+                    "kk": "Қытайдың АҚШ-қа қарағанда, АҚШ-тың өздеріне зиян келтіруіне қарсы тұруында да артықшылығы бар."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 35,
+            "row": {
+                "translation": {
+                    "en": "It’s anybody’s guess who can stand the pain better.",
+                    "kk": "Ауырсынуды кімнің оңайырақ шыдай алатынын бәріміз білеміз ғой."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 36,
+            "row": {
+                "translation": {
+                    "en": "Will it be the US, where ordinary citizens have already suffered for so long, or China, which, despite troubled times, has managed to generate growth in excess of 6%?",
+                    "kk": "Ол, қарапайым халқы қазірдің өзінде ұзақ зардап шеккен АҚШ па, немесе қиын-қыстау заманға қарамастан, 6% -дан асатын өсуді қалыптастыра білген Қытай ма?"
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 37,
+            "row": {
+                "translation": {
+                    "en": "More broadly, the Republican/Trump agenda, with its tax cuts even more weighted toward the rich than the standard GOP recipe would imply, is based on the idea of trickle-down prosperity – a continuation of the Reagan era’s supply-side economics, which never actually worked.",
+                    "kk": "Кеңінен алғанда, республикашылдар / Трамп күн тәртібі, стандартты GOP рецептінде көрсетілгендегіге қарағанда, салық қысқартуларымен бірге байларға қарай көбірек бағытталып, байлықтың төмен сарқылу идеясына негізделген, ол, шын мәнінде тиімді болмаған Рейган дәуірінің ұсыным экономикасының жалғасындай көрінеді.  Алау атқан риторика, немесе Twitter-де таңғы үште жазылған сандырақ ойлар, кем дегенде біраз уақытқа, Рейган революциясының салдарынан артты қалып кеткендердің ашуын басуы мүмкін."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 38,
+            "row": {
+                "translation": {
+                    "en": "Fire-breathing rhetoric, or raving three a.m. tweets, may assuage the anger of those left behind by the Reagan revolution, at least for a while.",
+                    "kk": "Бірақ  бұл қаншалықты ұзақ уақытқа жетеді?"
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 39,
+            "row": {
+                "translation": {
+                    "en": "But for how long? And what happens then?",
+                    "kk": "Ал содан соң не болады?"
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 40,
+            "row": {
+                "translation": {
+                    "en": "Trump might like to repeal the ordinary laws of economics, as he goes about his version of voodoo economics.",
+                    "kk": "Трамп вуду экономикасының өз нұсқасын жүргізіп, экономиканың негізгі заңдарының күшін жоюды қалауы мүмкін."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 41,
+            "row": {
+                "translation": {
+                    "en": "But he can’t.",
+                    "kk": "Бірақ олай жасау мүмкін емес."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 42,
+            "row": {
+                "translation": {
+                    "en": "Still, as the world’s largest economy leads the way into uncharted political waters in 2017 and beyond, it would be foolhardy for a mere mortal to attempt a forecast, other than to state the obvious: the waters will almost certainly be choppy, and many – if not most – pundit ships will sink along the way.",
+                    "kk": "Әлемнің ең ірі экономикасы 2017 жылы және одан әрі белгісіз саяси теңізге жол тартқанда, жәй бір пенде үшін болжам жасау ойсыз, аңғал қылықтай болар, тек айқын жәйттарды атау болмаса: су ағыны құбылмалы болады, және көптеген саясаттанушы кемелер батып та кетер."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 43,
+            "row": {
+                "translation": {
+                    "en": "The Achilles’ Heel of Trumponomics",
+                    "kk": "«Трампономиканың»  осал жері"
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 44,
+            "row": {
+                "translation": {
+                    "en": "NEW HAVEN – Donald Trump’s economic strategy is severely flawed.",
+                    "kk": "НЬЮ-ХЕЙВЕН – Дональд Трамптың экономикалық стратегиясы негізінен дұрыс емес.  Жаңадан сайланған АҚШ президенті үнемдеудің созылмалы тапшылығы бар елде мемлекеттік бюджет тапшылығын қаржыландыру есебінен экономикалық өсуді қалпына келтіруге ниеттеніп отыр."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 45,
+            "row": {
+                "translation": {
+                    "en": "The US president-elect wants to restore growth via deficit spending in a country with a chronic shortfall of saving. This points to a further compression in national saving, making a widening of an already outsize trade gap all but inevitable.",
+                    "kk": "Бұл қазірдің өзінде нормадан әлдеқайда жоғары сауда тапшылығын еріксіз арттыруға апаратын ұлттық жинақ ақшасының одан әрі азаюына апарады."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 46,
+            "row": {
+                "translation": {
+                    "en": "That dynamic unmasks the Achilles’ heel of Trumponomics: a blatant protectionist bias that collides head-on with America’s inescapable reliance on foreign saving and trade deficits to sustain economic growth.",
+                    "kk": "Бұл динамика  «Трампономиканың»  осал жерін ашып көрсетеді: экономикалық өсуді сақтап қалу үшін шетел валютасындағы жинақтар және сауда тапшылығына Американың тәуелділігіне қайшы келетін тұрпайы протекционистік үрдіс."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 47,
+            "row": {
+                "translation": {
+                    "en": "The Trump administration will not inherit a strong and sound US economy.",
+                    "kk": "Трамптың әкімшілігі күшті де тұрақты да емес американдық экономиканыны мұраға алады."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 48,
+            "row": {
+                "translation": {
+                    "en": "The pace of recovery since the Great Recession has been running at half that of normal cyclical rebounds – all the more disturbing given the massive size of the contraction in 2008-09.",
+                    "kk": "Ұлы құлдыраудан кейін қалпына келтіру қарқыны қалыпты циклдік жаңғыртудың тек жартысындай ғана - және бұл 2008-2009 жылдардағы айтарлықтай қысқартулар аясында орын алуда."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 49,
+            "row": {
+                "translation": {
+                    "en": "And savings, the seed corn of future prosperity, remain in woefully short supply.",
+                    "kk": "Және өкінішке орай, болашақтағы экономикалық  өсудің «егіс дәні» болып табылатын жинақтар тапшылығы жалғасуда."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 50,
+            "row": {
+                "translation": {
+                    "en": "The so-called net national saving rate – the depreciation-adjusted sum of business, household, and government saving – stood at just 2.4% of national income in mid-2016.",
+                    "kk": "Ұлттық жинақтардың таза мөлшерлемесі -  кәсіпорындар, үй шаруашылығы және мемлекеттің жинақтары, девальвацияны ескере отырғанда, 2016 жылдың бірінші жартысында ұлттық табыстың тек 2,4%-ын құрады."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 51,
+            "row": {
+                "translation": {
+                    "en": "While that’s an improvement from the unprecedented negative saving position in 2008-2011, it remains far short of the 6.3% average that prevailed over the final three decades of the twentieth century.",
+                    "kk": "Ол 2008-2011 жылдарда жинақтар бойынша теріс позициямен салыстырғанда, жақсару болып саналса да,  ХХ ғасырдың соңғы үш онжылдығында болған 6,3% орташа мәннен айтарлықтау артта қалып отыр."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 52,
+            "row": {
+                "translation": {
+                    "en": "This is important because it explains the pernicious trade deficits that Trump continues to rail against. Lacking in saving and wanting to grow, the United States must import surplus saving from abroad.",
+                    "kk": "Бұл өте маңызды, өйткені Трамп қарсы шыққан деструктивті сауда тапшылығының себебін түсіндіреді.  Жинақтар тапшылығы және экономикалық өсу ынтасы тұрғысынан, АҚШ жетіспейтін жинақтарды шетелден импорттауы керек."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 53,
+            "row": {
+                "translation": {
+                    "en": "And the only way to attract that foreign capital is by running massive current-account and trade deficits.",
+                    "kk": "Ағымдағы төлем мен сауда теңгерімінің теріс сальдосы - шетелдік капиталды тартудың жалғыз жолы. Бұл сандармен расталады: 2000 жылы ұлттық жинақтар деңгейі орташа көрсеткіштен айтарлықтай төмендегенде, ағымдағы төлем теңгерімінің теріс сальдосы  ЖІӨ-нің 3,8% -ын құрайтын орташа мәнге дейін өсті, бұл 1970 жылдан 1999 жылға дейінгі кезеңдегі 1% -бен салыстырғанда шамамен төрт есе артық."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 54,
+            "row": {
+                "translation": {
+                    "en": "The numbers bear this out: since 2000, when national saving fell well below trend, the current-account deficit has widened to an average of 3.8% of GDP – nearly four times the 1% gap from 1970 to 1999. Similarly, the net export deficit – the broadest measure of a country’s trade imbalance – has been 4% of GDP since 2000, versus an average of 1.1% over the final three decades of the twentieth century.",
+                    "kk": "Сол сияқты, таза сауда тапшылығы - елдің сауда теңгерімсіздігінің ең толық көрсеткіші - 2000 жылдан бері ЖІӨ-нің 4% -ын құрады, салыстыру үшін - ХХ ғасырдың соңғы үш онжылдығанда орташа мәні 1,1% болған."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 55,
+            "row": {
+                "translation": {
+                    "en": "Trumponomics has the cause and effect behind this development backwards. It fixates on country-specific sources of the trade deficit, like China and Mexico, but misses the fundamental point that these bilateral deficits are symptoms of America’s far deeper saving problem.",
+                    "kk": "«Трампономиканың» даму динамикасының осындай кейін бұруына себеп-салдары бар."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 56,
+            "row": {
+                "translation": {
+                    "en": "Presume for the moment that the US closes down trade with China and Mexico – the first and fourth largest components of the overall trade deficit – through a combination of tariffs and other protectionist measures (including the proposed renegotiation of NAFTA and a Mexican-funded border wall). Without addressing America’s chronic saving shortage, the Chinese and Mexican components of the trade deficit would simply be redistributed to other countries – most likely to higher-cost producers.",
+                    "kk": "Ол Қытай мен Мексика тәрізді, сауда тапшылығы туындайтын елдерге ерекше көңіл бөліп, осы екіжақты тапшылық Америкада әлдеқайда тереңірек жинақтау мәселесінің белгісі екенін назардан тыс қалдыруда."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 57,
+            "row": {
+                "translation": {
+                    "en": "The result would be the functional equivalent of a tax hike on beleaguered middle-class US families.",
+                    "kk": "Бір сәтке делік, АҚШ, сауда тапшылығының ең ірі бірінші және төртінші компоненттері Қытай және Мексикамен тарифтер мен басқа да протекционистік шаралар арқылы саудасын тоқтатты деп ойлап көрейік (Солтүстік Америка еркін сауда жүйесіне (НАФТА) қатысты ұсынылған қайта келіссөздер жүргізу және Мексика қаржыландыратын шекара дауалын салуды қоса алғанда). Американың созылмалы жинақ тапшылығы проблемасын шешпей, сауда тапшылығының Қытай және Мексика компоненттері жай ғана басқа елдерге қайта бөлінеді және олар жоғары шығынды өндірушілер болуы ықтимал.  Нәтижесі мүшкіл халде жүрген американдық орта тапты отбасыларға салынатын салықтарды арттырудың функционалдық баламасы болады."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 58,
+            "row": {
+                "translation": {
+                    "en": "In short, there is no bilateral fix for a multilateral problem.",
+                    "kk": "Бір сөзбен айтқанда, екі жақты іс-шаралармен көп жақты проблемалары шешіле алмайды."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 59,
+            "row": {
+                "translation": {
+                    "en": "The US had trade deficits with 101 countries in 2015 – a multilateral problem stemming from a saving shortfall that cannot be effectively addressed through country-specific “remedies.”",
+                    "kk": "2015 жылы АҚШ-тың 101 елмен сауда тапшылығы болды -бұл жинақ тапшылығының нәтижесі болып табылатын көп жақты мәселе және жеке елдерге сәйкес келген «құралдар» көмегімен тиімді шешілуі мүмкін емес."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 60,
+            "row": {
+                "translation": {
+                    "en": "That’s not to say that America’s trading partners should be let off the hook for unfair practices.",
+                    "kk": "Бұл АҚШ сауда әріптестері міндеттерін жауапсыз орындады және олар жазаланауы керек деу емес."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 61,
+            "row": {
+                "translation": {
+                    "en": "But it does mean that there is limited hope for resolving seemingly chronic trade deficits – and the related erosion of domestic hiring traceable to these imbalances – if the US doesn’t start saving again.",
+                    "kk": "Алайда, Америка Құрама Штаттары, қайтадан жинақтарын толтыра бастамаса бұл теңгерімсіздік салдары болып табылатын, елдегі айқын созылмалы сауда тапшылығы мен жұмыспен қамтамасыз ету проблемаларын шешу үшін аз үміт бар дегенді білдіреді."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 62,
+            "row": {
+                "translation": {
+                    "en": "Alas, this plot is about to thicken.",
+                    "kk": "Өкінішке орай, сценарий күрделінуде."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 63,
+            "row": {
+                "translation": {
+                    "en": "Trumponomics seems likely to exacerbate America’s saving shortfall in the years ahead.",
+                    "kk": "«Трампономика» да  алдағы жылдары АҚШ қорларының тапшылығы проблемасын қоздыратындай."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 64,
+            "row": {
+                "translation": {
+                    "en": "Analyses by the Tax Policy Center, the Tax Foundation, and Moody’s Analytics all indicate that federal budget deficits under Trump’s economic plan are headed back toward at least 7% of GDP over the next ten years.",
+                    "kk": "Tax Policy Center, the Tax Foundation, және Moody’s Analytics жасаған талдауларға сәйкес, алдағы он жылда, Трамп экономикалық жоспарын жүзеге асырса, федералдық бюджет тапшылығы ЖІӨ-нің кем дегенде 7% -ына оралады деп көрсетеді."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 65,
+            "row": {
+                "translation": {
+                    "en": "Trump’s senior economic-policy advisers, Peter Navarro and Wilbur Ross (Trump's pick for commerce secretary), argued in a position paper in September that these estimates are flawed, because they don’t take into account “growth-inducing windfalls” from regulatory and energy reforms, or the added bonanza that should arise from a sharp narrowing of America’s trade deficit.",
+                    "kk": "Трамптың экономикалық саясат бойынша аға кеңесшілері Питер Наварро және Уилбур Росс қыркүйекте жасалған өз позициясын көрсету меморандумда олар бұл болжау жарамсыз екенін айтты, себебі ол нормативтік және энергетикалық реформалардан алынатын «өсуді ынталандыратын күтпеген пайданы»  немесе Американың сауда тапшылығын күрт қысқарту нәтижесінде алынатын қосымша табысты ескермейді деді."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 66,
+            "row": {
+                "translation": {
+                    "en": "Indeed, the Navarro-Ross analysis attributes fully 73% of the growth-inducing revenue windfall of Trumponomics to a massive improvement in the overall trade balance over the next decade.",
+                    "kk": "Шынында, Наварро-Росс талдауы «Трампономикадан» түскен күтпеген, табыс өсуін ынталандыратын пайданың толық 73%-ын алдағы онжылдықта жалпы сауда балансында жаппай дамуға тіркейді."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 67,
+            "row": {
+                "translation": {
+                    "en": "Yet, as stressed above, barring a miraculous surge in national saving, this is highly dubious.",
+                    "kk": "Дегенмен, ұлттық жинақтарда ғажайып өсу толқыны орын алмаса бұның бәрі екіталай."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 68,
+            "row": {
+                "translation": {
+                    "en": "Creative accounting, long a staple of supply-side economics, has never been more imaginative.",
+                    "kk": "Креативті есептің ұсыныс экономикасының басты өнімі ретінде бұрын алды мұндай қиялы бай емес еді."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 69,
+            "row": {
+                "translation": {
+                    "en": "Therein lies one of the most glaring disconnects of Trumponomics.",
+                    "kk": "Мұнда «Трампономиканың» ең айқын үйлеспейтін жағы жатыр."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 70,
+            "row": {
+                "translation": {
+                    "en": "Getting tough on trade at a time when national saving is about to come under ever-greater pressure simply doesn’t add up.",
+                    "kk": "Ұлттық үнемдеу бұрын-соңды болмаған үлкен қысымға таяп қалған уақытта сауданы  қатаңдату шараларын іске асыру ешбір ойға сыймайды. Мемлекеттік бюджет тапшылығының ең шамалы есептемелеріне қарағанда  қазірдің өзінде қатты азайған таза ұлттық жинақ коэффициенті 2018-2019 жылдарының бір кезеңінде қайта теріс секторға кіруі мүмкін."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 71,
+            "row": {
+                "translation": {
+                    "en": "Even the most conservative estimates of the federal budget deficit suggest that the already-depressed net national saving rate could re-enter negative territory at some point in the 2018-2019 period. That would put renewed pressure on the current-account and trade deficits, making it extremely difficult to reverse the loss of jobs and income that politicians are quick to blame on America’s trading partners.",
+                    "kk": "Яғни, бұл ағымдағы төлем және сауда балансының теріс сальдосына жаңа қысым көрсетіп, жұмыс орындары және табыстан айрылуды қайта қалпына келтіруді қиындата түседі, саясаткерлер болса бұл үшін тез  арада Американың сауда әріптестері кінәлі деп жариялайды."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 72,
+            "row": {
+                "translation": {
+                    "en": "Ironically, in the coming era of negative saving, the US will find itself increasingly dependent on surplus saving from abroad.",
+                    "kk": "Қызығы, алдағы жинақтау корларының қысқару дәуірінде, АҚШ шетелден келетін артық қаражат жинақтарына барған сайын тәуелді болады."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 73,
+            "row": {
+                "translation": {
+                    "en": "If the Trump administration takes aim at major foreign lenders – namely, China – its strategy could quickly backfire.",
+                    "kk": "Трамп әкімшілігі ірі шетелдік кредиторларға - атап айтқанда, Қытайға көзделсе - оның стратегиясы тез уақытта кері нәтиже беруі мүмкін."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 74,
+            "row": {
+                "translation": {
+                    "en": "At a minimum, there could be an adverse impact on the terms by which America borrows from abroad; that could mean higher interest rates – hints of which are already evident – and ultimately downward pressure on the dollar.",
+                    "kk": "Кем дегенде, Американың шетелден қарыз алу шарттарына кері әсері болуы мүмкін; қазірдің өзінде айқын болып табылатын жоғары пайыздық мөлшерлемелер орын алып және түбінде долларды түсіретін қысым болуы мүмкін."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 75,
+            "row": {
+                "translation": {
+                    "en": "And, of course, there is the worst-case scenario of an escalating global trade war.",
+                    "kk": "Және, әрине, ғаламдық сауда соғысының ушығуы орын алатын ең нашар сценарий де бар."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 76,
+            "row": {
+                "translation": {
+                    "en": "Protectionism, anemic saving, and deficit spending make for an especially toxic cocktail.",
+                    "kk": "Протекционизм, әлсіз жинақтау және мемлекеттік бюджет тапшылығын қаржыландыру аса «улы коктейльді»  құрайды."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 77,
+            "row": {
+                "translation": {
+                    "en": "Under Trumponomics, it will be exceedingly difficult to make America great again.",
+                    "kk": "«Трампономика» барысында, Американың ұлылыған қайта қайтару өте қиын болады."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 78,
+            "row": {
+                "translation": {
+                    "en": "Is the Deflation Cycle Over?",
+                    "kk": "Дефляция циклы аяқталды ма?"
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 79,
+            "row": {
+                "translation": {
+                    "en": "CAMBRIDGE – Until the global financial crisis of 2008-2009, deflation had all but disappeared as a concern for policymakers and investors in the advanced economies, apart from Japan, which has been subject to persistent downward pressure on prices for nearly a generation.",
+                    "kk": "КЕМБРИДЖ – 2008-2009 жылдардағы әлемдік қаржы дағдарысына дейін, дефляция озық экономикаларда саясаткерлер мен инвесторлар үшін алаңдаушылық себебі ретінде жоғалып кетті. Ол тек шамамен ұрпақ буыны бойы бағалардың тұрақты төмендеу қысымына ұшыраған Жапонияда болды."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 80,
+            "row": {
+                "translation": {
+                    "en": "And now deflationary fears are on the wane again.",
+                    "kk": "Ал енді дефляциялық қорқыныш қайтадан жоқ болып кетуде."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 81,
+            "row": {
+                "translation": {
+                    "en": "By the mid-1960s, the advanced economies began an era of rising inflationary pressures, ignited largely by expansionary fiscal and monetary policies in the United States, and acutely compounded by the oil price hikes of the 1970s.",
+                    "kk": "1960-шы жылдардың ортасына қарай, дамыған экономикалар өскелең инфляциялық қысымның дәуірін бастады, ол Америка Құрама Штаттарында кең ауқымды фискалдық және ақша-несие саясатымен айтарлықтай дәрежеде тұтанып, және 1970 жылы мұнай бағасының тез өсуімен қоздырылды."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 82,
+            "row": {
+                "translation": {
+                    "en": "Stagflation, the combination of low economic growth and high inflation, became a buzzword by the end of that decade.",
+                    "kk": "Стагфляция - төмен экономикалық өсу мен жоғары инфляция комбинациясы, ол сол онжылдықтың соңына қарай атақты сөз болды."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 83,
+            "row": {
+                "translation": {
+                    "en": "Most contemporary market forecasts extrapolated those trends, predicting an uninterrupted upward march in oil and commodity prices.",
+                    "kk": "Ең заманауи нарықтық болжамдар мұнай мен тауар бағасының үздіксіз жоғарылауын болжап, сол үрдістерді экстраполяциялады."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 84,
+            "row": {
+                "translation": {
+                    "en": "Inflation came to be seen as chronic, and politicians looked toward price controls and income policies.",
+                    "kk": "Инфляция созылмалы құбылыс ретінде қарастырылып, саясаткерлер баға басқару элементтері мен табыс саясатына назар аударды."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 85,
+            "row": {
+                "translation": {
+                    "en": "Real (inflation-adjusted) short-term interest rates were consistently negative in most of the advanced economies.",
+                    "kk": "Нақты (инфляциямен түзетілген) қысқа мерзімді пайыздық ставкалар озық экономикалардың көбінде теріс мәнді болды."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 86,
+            "row": {
+                "translation": {
+                    "en": "Federal Reserve Chairman Paul Volcker’s monumental tightening of US monetary policy in October 1979 ended that long cycle. Stagflation gave way to a new buzzword: disinflation, which accurately characterized many advanced economies, as inflation rates fell from double digits.",
+                    "kk": "Федералды резерв жүйесінің төрағасы Пол Волкердің 1979 жылы қазан айында АҚШ-тың монетарлық саясатын монументалды қатаңдатуы осы ұзақ циклді аяқтады.  Стагфляция жаңа дезинфляция деген сөзді шығарды, ол көптеген дамыған экономикаларда инфляция қарқыны қос таңбалы сандардан құлаған сәтті дәл сипаттады."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 87,
+            "row": {
+                "translation": {
+                    "en": "But disinflation is not the same as deflation.",
+                    "kk": "Бірақ дезинфляция (disinflation)  дефляциямен (deflation) бірдей емес."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 88,
+            "row": {
+                "translation": {
+                    "en": "As shown in the figure, between 1962 and 1986, not a single advanced economy recorded an annual decline in prices.",
+                    "kk": "1962 және 1986 жылдар арасында, суретте көрсетілгендей, бірде-бір озық экономикасы бар елде бағаның жылдық төмендеуі тіркелмеген."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 89,
+            "row": {
+                "translation": {
+                    "en": "In many emerging markets, inflation rates soared into triple digits, with several cases of hyperinflation.",
+                    "kk": "Көптеген дамушы нарықтардағы инфляция қарқыны бірнеше жағдайларда гиперинфляцияға ұшырап, үш  таңбалы сандарға дейін өсті."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 90,
+            "row": {
+                "translation": {
+                    "en": "As late as 1991, Greece had an inflation rate of about 20%.",
+                    "kk": "Сондай-ақ 1991 жылы Грецияда инфляция деңгейі шамамен 20% болды."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 91,
+            "row": {
+                "translation": {
+                    "en": "Even in historically price-stable Switzerland at that time, inflation was running above 5%.",
+                    "kk": "Тіпті тарихи бағасы тұрақты Швейцарияда инфляция деңгейі 5% -дан жоғары шықты."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 92,
+            "row": {
+                "translation": {
+                    "en": "This seems a distant memory after the steady decline in prices in Greece since 2013, alongside a debt crisis and collapse in output.",
+                    "kk": "2013 жылдан бері Грецияда бағаның тұрақты төмендеуі, борыштық дағдарыс пен өндірістік ыдыраудан бері көп уақыт өткендей көрінеді."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 93,
+            "row": {
+                "translation": {
+                    "en": "The Swiss National Bank, for its part, has been battling with the deflationary effects of the franc’s dramatic appreciation over the past few years.",
+                    "kk": "Швейцарияның Ұлттық банкі өз тарапынан, соңғы бірнеше жыл ішінде франк құнының қатты өсуінің дефляциялық әсерімен күресіп келеді."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 94,
+            "row": {
+                "translation": {
+                    "en": "The deflationary forces were unleashed by the major economic and financial dislocations associated with the deep and protracted global crisis that erupted in 2008. Private deleveraging became a steady headwind to central bank efforts to reflate.",
+                    "kk": "2009 жылы, алдыңғы қатарлы экономикалардың шамамен үштен бірі бағаның төмендеуін көрсетті, бұл соғыстан кейінгі жоғары деңгей болды."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 95,
+            "row": {
+                "translation": {
+                    "en": "In 2009, about one-third of advanced economies recorded a decline in prices – a post-war high. In the years that followed, the incidence of deflation remained high by post-war standards, and most central banks persistently undershot their extremely modest inflation objectives (around 2%).",
+                    "kk": "Кейінгі жылдары, дефляция деңгейі соғыстан кейінгі стандарттар бойынша жоғары болды,  және көптеген орталық банктер табанды 2% шамасындағы өте қарапайым инфляция міндеттердін төмендетті."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 96,
+            "row": {
+                "translation": {
+                    "en": "Because US President Donald Trump’s stimulus plans are procyclical – they are likely to gain traction when the US economy is at or near full-employment – they have reawakened expectations that the US inflation rate is headed higher.",
+                    "kk": "АҚШ президенті Дональд Трамптың ынталандыру жоспарлары проциклді болғаннан, олар АҚШ экономикасы толық жұмыспен қамтуға немесе оған жақын жеткен кезде ширақтауы ықтимал, және олар АҚШ инфляциясы жоғарыдан басқарылады деген сенімді тудырды."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 97,
+            "row": {
+                "translation": {
+                    "en": "Indeed, inflation is widely expected to surpass the Federal Reserve’s 2% objective.",
+                    "kk": "Шынында да, инфляцияның Федералды қордың 2% мақсатынан асып кетуі күтілуде."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 98,
+            "row": {
+                "translation": {
+                    "en": "But tighter monetary conditions act to mitigate the magnitude of the inflation spurt: while the expected rise in US policy rates is the most modest and gradual “normalization” in the Fed’s history, sustained dollar appreciation should limit price gains for a broad range of imported goods and their domestic competitors.",
+                    "kk": "Бірақ қатаң монетарлық шарттар инфляция серпілісінің шамасын азайту үшін әрекеттенуде: АҚШ-тың саяси бағамдарының күтіліп отырған өсімі ФРЖ тарихындағы ең қарапайым және біртіндеп «қалыпқа келтіру» болып табылса да, тұрақты доллар құнының өсуі импортталатын кең ауқымды тауарлардың және олардың ішкі бәсекелестерінің баға пайдасын шектеуі керек."
+                }
+            },
+            "truncated_cells": []
+        },
+        {
+            "row_idx": 99,
+            "row": {
+                "translation": {
+                    "en": "This expected turning point in the behavior of prices is not unique to the US.",
+                    "kk": "Бағаның бұл күтілетін бетбұрысты өзгерісі АҚШ үшін бірегей емес."
+                }
+            },
+            "truncated_cells": []
+        }
+    ],
+    "num_rows_total": 126583,
+    "num_rows_per_page": 100,
+    "partial": false
+}
